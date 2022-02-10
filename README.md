@@ -1,3 +1,1 @@
-This is my personal website created with HTML, CSS and JS.
-
-vlatcata.github.io/my-website/
+This is my personal portfolio website created with HTML, CSS and JS.
